@@ -2,7 +2,7 @@
 #### So maybe you dont just want to get rid of all errors, rather you seek a few wise words too? Don't worry, We've got you covered.
 
 ```
-git clone \<copy the colone address>
+git clone <copy the colone address>
 
 cd Star\ Wars\ Fan?
 
